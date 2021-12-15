@@ -1,0 +1,67 @@
+h1, h2, #ссылка, h4, .подвал
+{
+    text-align: center;
+}
+h1
+{
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+h2
+{
+    font-size: 25px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    font-weight: 550;
+}
+#ссылка
+{
+    margin-top: 5px;
+    font-size: 17px;
+    margin-bottom: 45px;
+}
+#rightborder
+{
+    margin-right: 200px;
+}
+.maintext
+{
+    margin-top: 5px;
+    margin-left: 200px;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+h3
+{
+    margin-left: 200px;
+    margin-top: 45px;
+    font-size: 35px;
+    border-bottom: 1px solid;
+    padding-bottom: 6px;
+    margin-bottom: 15px;
+}
+.жанр
+{
+    margin-left: 200px;
+    font-size: 23px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+#распорка
+{
+    font-size: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.подвал
+{
+    margin-top: 5px;
+    font-size: 16px;
+}
+h4
+{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 16px;
+}
